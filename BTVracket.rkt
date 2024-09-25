@@ -17,8 +17,8 @@
 ;;right-func is the function used to call the right-binary-tree property of a binary-tree struct
 ;;Both should take one argument, a binary-tree, and return a different binary-tree
 
-;;id-func should take in a binary-tree node and return that node's ID
-;;name-func should take in a binary-tree node and return that node's name
+;;id-func should take in a binary-tree node and return that node's ID (Number)
+;;name-func should take in a binary-tree node and return that node's name (String)
 
 ;;=====     =====     =====     ======
 
